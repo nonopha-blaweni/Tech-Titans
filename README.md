@@ -1,12 +1,14 @@
 # TechTitans-Venderlution
 
 ## PROJECT OVERVIEW
-Venderlution is a mobile marketplace web-app designed to connect local buyers and sellers.
-It aims to provide a convenient,secure and user friendly platform for individuals to buy and sell their goods and services,which will lead to a promption of local economic growth and community engagement.
+Vendorlution is a secure, student-centric online marketplace web application developed to streamline local buying and selling. Inspired by platforms like Facebook Marketplace and WhatsApp commerce—but built to address their limitations—Vendorlution provides a trustworthy environment for product exchange by implementing an escrow-like payment system that protects buyers and ensures sellers only receive payment upon delivery confirmation.
+
+This application is not a delivery network but instead allows buyers and sellers to coordinate delivery or meetups themselves, promoting flexibility and user control. It encourages local economic participation and social accountability in digital commerce spaces.
 
 # TARGET AUDIENCE
-1.Buyers: individuals seeking to purchase goods and services from local sellers.
-2.Sellers:Businesses,artisans and individuals seeking to sell their products and services.
+Buyers – Students and individuals looking to purchase items from verified sellers securely.
+
+Sellers – Small businesses, artisans, and local vendors wanting to showcase and sell their products to a trusted university-based community.
 
 ## TEAM MEMBERS 
 1.Nonopha Blaweni {Project manager/Developer}
@@ -16,17 +18,25 @@ It aims to provide a convenient,secure and user friendly platform for individual
 5.Thabiso Mkhonto {Developer}
 
 # KEY FEATURES 
-1.User registration 
-2.Profile management 
-3.Product/service listing and management 
-4.Search and filtering system 
-5.Payment plan
+🧑‍💻 User Registration & Authentication – Different pathways for buyers and sellers.
+
+👤 Profile Management – Buyers and sellers manage personal info and business details.
+
+📦 Product Listing & Management – Sellers can upload, edit, and track items.
+
+🔎 Smart Search & Filtering – Users can explore listings by category, price, and location.
+
+💬 Chat Integration – Enables buyer-seller communication within the platform.
+
+💰 Secure Payment System – Funds held until buyer confirms receipt of goods.
+
+📊Seller Dashboard – Shows sales metrics, product performance, and order history.
 
 # TECHNICAL REQUIREMENTS 
 1.Front-end development(HTML,CSS,JS)
-2.Backend development()
-3.Database design
-4.Implementation of security
+2.Backend development(Express.js)
+3.Database design(SqlLite)
+4.Implementation of security(Payment-system escrow)
 
 # SETUP INSTRUCTIONS 
 
