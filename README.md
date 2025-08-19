@@ -1,4 +1,4 @@
-# TechTitans-Venderlution
+# TechTitans-Vendorlution
 
 ## PROJECT OVERVIEW
 Vendorlution is a secure, student-centric online marketplace web application developed to streamline local buying and selling. Inspired by platforms like Facebook Marketplace and WhatsApp commerce—but built to address their limitations.
